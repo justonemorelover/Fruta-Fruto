@@ -1,0 +1,39 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 2rem;
+
+    background-color: #f9f9f9;
+}
+
+.menu__lista {
+    display: flex;
+
+}
+
+.menu__item {
+    list-style: none;
+}
+
+.menu__item:last-child {
+    margin-right: 0;
+}
+
+.menu__link {
+    color: #808080;
+    text-decoration: none;
+    text-transform: lowercase;
+
+    margin: 0 0.75rem
+}
+
+.menu__item .ativo {
+    color: #333;
+    font-weight: bold;
+}
+
+.menu__link:hover {
+    text-decoration: underline;
+}
