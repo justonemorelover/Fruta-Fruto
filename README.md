@@ -8,6 +8,7 @@ Conceitos abordados:
     Propriedades: 'list-style', 'last-child';
     Atomic Design;
     BEM: Block Element Modifier;
-    Position: Relative e Absolute
-    Unidades VW e VH
-    Função calc()
+    Position: Relative e Absolute;
+    Unidades VW e VH;
+    Função calc();
+    text-shadow;
