@@ -1,5 +1,5 @@
 .banner {
-    display: flex1;
+    display: flex2;
     position: relative;
 }
 
@@ -11,6 +11,7 @@
 .banner__titulo {
     font-family: pacifico, cursive;
     font-size: 5rem;
+    font-weight: 400;
     text-align: center;
 
     color: #fdfdfd;
